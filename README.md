@@ -21,6 +21,16 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+### 💻 Projects
+
+<ul>
+  <li><a href="https://github.com/RastaAlex/bigNumbers">bigNumbers</a> - Use to get the sum of two numbers of any size.</li>
+  <li><a href="https://github.com/RastaAlex/CSVtoJSON">CsvToJson</a> - Easy conver CSV to JSON.</li>
+  <li><a href="https://github.com/RastaAlex/EasyGit">EasyGit</a> - Easy add, commit, push to GitHub.</li>
+  <li><a href="https://github.com/RastaAlex/readdir">readdir</a> - Reading and sorting files in directory. Placing them in a table by values.</li>
+  <li><a href="https://github.com/RastaAlex/dec2radix">dec2radix</a> -A Node.js library for converting between different numeric representations.</li>
+  <li><a href="https://github.com/RastaAlex/hex2dec">hex2dec</a> - Easy convert hexadecimal to decimal.</li>
+</ul>
 
 <details>	
   <summary><b>⚙️ Github Stats</b></summary>
