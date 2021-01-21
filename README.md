@@ -25,7 +25,7 @@
 
 <ul>
   <li><a href="https://github.com/RastaAlex/bigNumbers">bigNumbers</a> - Use to get the sum of two numbers of any size.</li>
-  <li><a href="https://github.com/RastaAlex/CSVtoJSON">CsvToJson</a> - Easy conver CSV to JSON.</li>
+  <li><a href="https://github.com/RastaAlex/CSVtoJSON">CsvToJson</a> - Simple conver CSV to JSON.</li>
   <li><a href="https://github.com/RastaAlex/EasyGit">EasyGit</a> - Easy add, commit, push to GitHub.</li>
   <li><a href="https://github.com/RastaAlex/readdir">readdir</a> - Reading and sorting files in directory. Placing them in a table by values.</li>
   <li><a href="https://github.com/RastaAlex/dec2radix">dec2radix</a> -A Node.js library for converting between different numeric representations.</li>
