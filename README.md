@@ -7,7 +7,7 @@
 📰 Reading tech blogs whenever possible.\
 🐧 Researching Linux and Open Source.
 
-<img alt="JS" src="https://github.com/RastaAlex/RastaAlex/blob/main/giphy.gif" align="right" style="width=50%; height=50%"/>
+<img alt="JS" src="https://github.com/RastaAlex/RastaAlex/blob/main/giphy.gif" align="right"; style="width=50%; height=50%"/>
 
 ### 🛠 Tech Stack
 
