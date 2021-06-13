@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Oleksii a.k.a [RastaAlex](https://github.com/RastaAlex)
+### Hey there 👋 I'm Alex a.k.a [RastaAlex](https://github.com/RastaAlex)
 
 ### 👨🏻‍💻 About Me
 
