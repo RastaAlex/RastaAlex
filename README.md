@@ -13,7 +13,6 @@
 
 ![JavaSript](https://img.shields.io/badge/JS-Javasript-yellow)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-green)
-![NPM](https://img.shields.io/badge/-NodeJs-green)
 ![Express](https://img.shields.io/badge/-Express-green)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
